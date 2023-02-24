@@ -22,16 +22,21 @@ Use automated browsing to visit the Mars Temperature Data SiteLinks to an extern
 
 
 How many months exist on Mars?
+![image](https://user-images.githubusercontent.com/117549284/221122806-0bc1b563-545d-49b8-a94c-aa03267c42f6.png)
 
 How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+![image](https://user-images.githubusercontent.com/117549284/221122818-cc03e45e-bc23-4c31-84f4-3f924dc94f3c.png)
 
-What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+What are the![image](https://user-images.githubusercontent.com/117549284/221122760-76d1bcd4-2f03-45ee-9e2a-8d25da7112a3.png)
+ coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 
 
 Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
+![image](https://user-images.githubusercontent.com/117549284/221122683-4f573082-f483-46b5-b390-6a774371b519.png)
 
 
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+![image](https://user-images.githubusercontent.com/117549284/221122784-eb122ad0-e5ba-46cd-8897-f843e4ac044b.png)
 
 
 
