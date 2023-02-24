@@ -22,6 +22,7 @@ Use automated browsing to visit the Mars Temperature Data SiteLinks to an extern
 
 
 How many months exist on Mars?
+
 ![image](https://user-images.githubusercontent.com/117549284/221122806-0bc1b563-545d-49b8-a94c-aa03267c42f6.png)
 
 How many Martian (and not Earth) days worth of data exist in the scraped dataset?
